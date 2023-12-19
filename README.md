@@ -1,6 +1,16 @@
-- 👋 Olá, meu nome é Andrês.
-- 👀 Atualmente cursando Licenciatura em Matemática pela Unicamp.
-- 🌱 Tenho interesse em Computação Quântica, Grafos e Geometria Computacional. 
+🌐 Hi, I'm Andrês!
+
+🎓 Licentiate in Mathematics | 📚 Master's Student in Applied Mathematics
+
+Currently, my research revolves around exploring novel methods in Distance Geometry.
+
+Areas of Interest:
+
+Machine Learning 💻
+Quantum Computing 🚀
+Computational Geometry 🔍
+
+#Mathematics #QuantumComputing #ComputationalGeometry #MachineLearning #DistanceGeometry
 
 <!---
 andresroliveira/andresroliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
