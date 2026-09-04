@@ -1,16 +1,15 @@
-🌐 Hi, I'm Andrês!
+# Hi, I'm Andrês Oliveira
 
-🎓 Licentiate in Mathematics | 📚 Master's Student in Applied Mathematics at [IMECC Unicamp](https://www.ime.unicamp.br/)
+🎓 PhD student in Applied Mathematics at [IMECC/UNICAMP](https://www.ime.unicamp.br/), Brazil.
 
-📍 Campinas, 🇧🇷
+My current research is in **Computational Geophysics**, with an emphasis on numerical methods for seismic wave propagation and **Full-Waveform Inversion (FWI)**.
 
-Currently, my research revolves around exploring novel methods in Distance Geometry.
+I hold a Master's degree in Applied Mathematics and a Licentiate degree in Mathematics from the University of Campinas (UNICAMP). My previous research involved **Distance Geometry** and **Quantum Computing**.
 
-Areas of Interest:
+## Research interests
 
-- Machine Learning 💻
-- Quantum Computing 🚀
-- Computational Geometry 🔍
-
-
-#Mathematics #QuantumComputing #ComputationalGeometry #MachineLearning #DistanceGeometry
+- Computational Geophysics
+- Full-Waveform Inversion
+- Inverse Problems
+- Numerical Methods
+- Scientific Computing
